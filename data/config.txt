@@ -1,0 +1,21 @@
+width=200
+height=200
+cell size=5
+iterations=50
+transitions=0
+pausable=1
+dying red level=30
+dying green level=30
+dying blue level=200
+newborn red level=30
+newborn green level=200
+newborn blue level=30
+alive red level=255
+alive green level=255
+alive blue level=255
+interframe delay=150
+
+This is not an initial state, but a configuration file to be used with the
+function 'load_config'.
+Do not change the order or the names of the differents parameters,
+or it will not be recognised by the program.
